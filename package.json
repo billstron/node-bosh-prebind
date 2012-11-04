@@ -2,10 +2,10 @@
 	"name": "bosh-prebind",
 	"description": "Module that binds a session to the BOSH server",
 	"version": "0.0.1",
-	"private": true,
+	"private": false,
 	"main" : "index.js",
 	"maintainers": [
-		{ "name": "William Burke", "email": "wburke@calculingua.com" }
+		{ "name": "William Burke", "email": "billstron@gmail.com" }
 	],
 	"keywords": ["xmpp", "bosh", "http", "jabber", "prebind"],
 	"repositories": { "type": "git", "path": "https://github.com/billstron/node-bosh-prebind" },
